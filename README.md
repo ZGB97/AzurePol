@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-In this lab I went through steps to create, manage and assign Azure Policies. Management & Governance, IAM.
+In this lab I went through steps to create, manage and assign Azure Policies. 
+Management & Governance, IAM.
 <br />
 
 
